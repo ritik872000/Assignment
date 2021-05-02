@@ -28,7 +28,7 @@ Probable reasons are :
     <li>Checking for missing values</li>
     <li>Converting categorical values to numeric</li>
     <li>Scaling values(normalization/standardization) it'll help converge the values faster while building models</li>
-    <li>After analysing(refer Price Trends) I figured that theres one data point of variety potato in achmera market and one of other in jagnair so we need to take care of those points either we can remove them or change there variety by the top variety which is Desi.
+    <li>After analysing(refer Price Trends notebook) I figured that theres one data point of variety potato in achmera market and one of other in jagnair so we need to take care of those points either we can remove them or change there variety by the top variety which is Desi.
 </ol>
 
 <li>Relevant Features</li>
