@@ -73,4 +73,4 @@ Why Forecasting?<br>
   <li> I was not able to scrape the tables from each page(But I am willing to learn how to do it) so, instead I took the data from export to csv option and did the analysis.
 </ol>
 
-PS: I have used references from medium, pluralsight articles to build the crawler.
+PS: I have used references from medium and pluralsight articles to build the crawler.
