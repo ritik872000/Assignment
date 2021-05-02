@@ -69,6 +69,6 @@ Why Forecasting?<br>
 <ol>
   <li> crawler.py - It consists the scrawler but it only scapres table from first page.</li>
   <li>crawler.ipynb- step by step explanation of what the crawler does.</li>
-  <li><(b) price trends analysis- It consists of data and visualization from which the observations are derived</li>
+  <li>(b) price trends analysis- It consists of data and visualization from which the observations are derived</li>
   <li> I was not able to scrape the tables from each page(But I am willing to learn how to do it) so, instead I took the data from export to csv option and did the analysis.
 </ol>
