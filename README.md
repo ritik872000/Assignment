@@ -1,4 +1,5 @@
------------------------------------------------------------------------------(b)------------------------------------------------------------------------------
+-------------------------------------------------(b)-------------------------------------------------
+
 <li>Yearly Analysis: We can notice that prices mostly increase till the month of november and suddenly drops in the last month.</li>
 
 Probable reasons are :
@@ -18,8 +19,7 @@ Probable reasons are :
 <ol>
   <li>We can notice that<b> Fatehpur and samsabad market mostly sell local variety</b> while <b>others sell Desi</b></li>
   </ol>
-
------------------------------------------------------------------------------(c)------------------------------------------------------------------------------
+-------------------------------------------------(c)-------------------------------------------------
 
 <li>Data Pre-processing techniques</li>
 <ol>
