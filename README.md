@@ -41,8 +41,7 @@ Probable reasons are :
 -As time is the greatest factor here we can treat this problem as a forecasting problem i.e using time as our independent variable we can forecast prices for future.
 
 Why Forecasting?<br>
--Prices depends on features like time or simply we have time series data 
-
+-Prices depends on time and the data is time-series so, it'll be easier to forecast the prices using below methods.
 <ol>
     <li>Classic ARIMA/SARIMA</li>
     <li>Deep Learning(RNN or LSTM)</li>
@@ -61,7 +60,7 @@ Why Forecasting?<br>
 <li>Loss function</li>
 -As the data is linear 
 <ol>
-    <li>We could use mean squared error(MSE) because it would directly  us the difference between predicted/forecasted and real prices.</li>
+    <li>We could use mean squared error(MSE) because it would directly give us the difference between predicted/forecasted and real prices.</li>
     
 </ol>
 
