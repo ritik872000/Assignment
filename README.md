@@ -5,7 +5,7 @@
 Probable reasons are :
 <ol>
   <li>In december supply increase due to which price falls. </li>
-  <li>There are many factors behind the increase in prices(Weather, Soil condition.</li>
+  <li>There are many factors behind the increase in prices(Weather, Soil condition).</li>
 </ol>
 
 <li>Quarterly Analysis</li>
